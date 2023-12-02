@@ -1,0 +1,35 @@
+{
+  "name": "TweenSequenceEditor",
+  "servePort": 8000,
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "TweenSequenceEditor": {
+        "$className": "Folder",
+        "Src":{
+          "$path": "src"
+        },
+        "Roact": {
+          "$path": "submodules/Roact/lib"
+        },
+        "Rodux": {
+          "$path": "submodules/Rodux/lib"
+        },
+        "RoactRodux": {
+          "$path": "submodules/Roact-Rodux/lib"
+        },
+        "Cryo": {
+          "$path": "submodules/Cryo/lib"
+        },
+        "Promise": {
+          "$path": "submodules/Promise/lib"
+        },
+        "TestEZ": {
+          "$path": "submodules/TestEZ/lib"
+        }
+      }
+    }
+  }
+}
