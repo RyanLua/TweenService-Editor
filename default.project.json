@@ -12,22 +12,22 @@
           "$path": "src"
         },
         "Roact": {
-          "$path": "submodules/Roact/lib"
+          "$path": "submodules/roact/src"
         },
         "Rodux": {
-          "$path": "submodules/Rodux/lib"
+          "$path": "submodules/rodux/src"
         },
         "RoactRodux": {
-          "$path": "submodules/Roact-Rodux/lib"
+          "$path": "submodules/roact-rodux/src"
         },
         "Cryo": {
-          "$path": "submodules/Cryo/lib"
+          "$path": "submodules/cryo/src"
         },
         "Promise": {
-          "$path": "submodules/Promise/lib"
+          "$path": "submodules/roblox-lua-promise/lib"
         },
         "TestEZ": {
-          "$path": "submodules/TestEZ/lib"
+          "$path": "submodules/testez/src"
         }
       }
     }
