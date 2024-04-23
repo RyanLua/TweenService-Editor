@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "vuepress": "^1.7.1",
     "vuepress-plugin-api-docs-generator": "^1.0.19"
   },
